@@ -1,4 +1,4 @@
-# 🌐 Pixelscan – Browser Fingerprint & Privacy Checker  
+# 🌐 Pixelscan – Browser Fingerprint Checker  
 
 **Pixelscan** is the easy way to check your antidetect setup. With one click, you can see if fingerprints, DNS, proxies, or location info reveal you, so you can fix leaks fast and stay undetected while managing multiple accounts, scraping, or automation. 
 
@@ -31,7 +31,7 @@ Whether you’re using an antidetect browser, proxy, or VPN, Pixelscan shows you
 
 Pixelscan doesn’t just check your setup — we also share practical guides and insights to help you stay undetected, private, and in control. Explore articles for both beginners and pros.  
 
-### 📂 Blog Categories  
+### 📂 What you can find in our blog?  
 - 🔒 Antidetect Guide
 - 👥 Multiple Accounts 
 - 🌐 Proxies
